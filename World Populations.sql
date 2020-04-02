@@ -77,7 +77,7 @@ FROM
 WHERE
    countries.name = 'Poland';
 
-   
+
 --Number of countries with "The" in the name
 SELECT
    COUNT(name)
